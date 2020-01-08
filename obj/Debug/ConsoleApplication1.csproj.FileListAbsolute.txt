@@ -1,0 +1,15 @@
+/Users/user/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/user/RiderProjects/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/user/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/user/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/user/RiderProjects/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+C:/Users/Guillaume/Documents/Rider C#/C-mini-games/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+C:/Users/Guillaume/Documents/Rider C#/C-mini-games/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+C:/Users/Guillaume/Documents/Rider C#/C-mini-games/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+C:/Users/Guillaume/Documents/Rider C#/C-mini-games/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+C:/Users/Guillaume/Documents/Rider C#/C-mini-games/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+/Users/user/Documents/Loqh's mini games/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/user/Documents/Loqh's mini games/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/user/Documents/Loqh's mini games/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/user/Documents/Loqh's mini games/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/user/Documents/Loqh's mini games/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

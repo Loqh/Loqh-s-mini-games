@@ -1,0 +1,19 @@
+Welcome to the launcher
+Score
+[L] Change language
+Play | 
+
+Rock
+Paper
+Scissors
+Rule : The first who win 2 rounds wins the game
+Your score : 
+AI score : 
+You won the game
+AI won the game
+Choose between ROCK, PAPER and SCISSORS
+Player 
+AI 
+won the round
+Draw
+Round #

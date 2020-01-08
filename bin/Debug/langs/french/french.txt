@@ -1,0 +1,19 @@
+Bienvenue
+Score
+[L] Changer la langue
+Jouer à | 
+
+Pierre
+Feuille
+Ciseaux
+Règle : Le premier qui gagne 2 rounds gagne la partie
+Votre score : 
+Score de l'IA : 
+Vous avez gagné la partie
+L'IA a gagné la partie
+Choisissez entre PIERRE, FEUILLE et CISEAUX
+Joueur 
+IA 
+a gagné le round
+Egalité
+Round #
